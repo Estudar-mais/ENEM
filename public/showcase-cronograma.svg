@@ -1,0 +1,76 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#dce4f7"/>
+  
+  <!-- Device frame -->
+  <rect x="80" y="60" width="640" height="480" rx="20" fill="#ffffff" stroke="#bfcff7" stroke-width="2"/>
+  
+  <!-- Screen content -->
+  <!-- Header -->
+  <rect x="100" y="80" width="600" height="50" fill="#f8f3bf" rx="8"/>
+  <text x="120" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#75616b">Cronograma Semanal - Semana 34</text>
+  
+  <!-- Days header -->
+  <g>
+    <text x="120" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">SEG</text>
+    <text x="200" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">TER</text>
+    <text x="280" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">QUA</text>
+    <text x="360" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">QUI</text>
+    <text x="440" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">SEX</text>
+    <text x="520" y="160" font-family="Arial" font-size="12" font-weight="600" fill="#75616b">SÁB</text>
+  </g>
+  
+  <!-- Schedule blocks -->
+  <!-- Row 1 -->
+  <rect x="120" y="180" width="60" height="45" fill="#ffc0cb" rx="6"/>
+  <text x="135" y="208" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Mat</text>
+  
+  <rect x="200" y="180" width="60" height="45" fill="#87ceeb" rx="6"/>
+  <text x="215" y="208" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Port</text>
+  
+  <rect x="280" y="180" width="60" height="45" fill="#fff9a6" rx="6"/>
+  <text x="295" y="208" font-family="Arial" font-size="10" font-weight="bold" fill="#666" text-anchor="middle">Red</text>
+  
+  <rect x="360" y="180" width="60" height="45" fill="#90ee90" rx="6"/>
+  <text x="375" y="208" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Bio</text>
+  
+  <rect x="440" y="180" width="60" height="45" fill="#ffc0cb" rx="6"/>
+  <text x="455" y="208" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Hist</text>
+  
+  <!-- Row 2 -->
+  <rect x="120" y="240" width="60" height="45" fill="#87ceeb" rx="6"/>
+  <text x="135" y="268" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Port</text>
+  
+  <rect x="200" y="240" width="60" height="45" fill="#ffa500" rx="6"/>
+  <text x="215" y="268" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Geo</text>
+  
+  <rect x="280" y="240" width="60" height="45" fill="#fff9a6" rx="6"/>
+  <text x="295" y="268" font-family="Arial" font-size="10" font-weight="bold" fill="#666" text-anchor="middle">Hist</text>
+  
+  <rect x="360" y="240" width="60" height="45" fill="#90ee90" rx="6"/>
+  <text x="375" y="268" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Cien</text>
+  
+  <rect x="440" y="240" width="60" height="45" fill="#87ceeb" rx="6"/>
+  <text x="455" y="268" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Ing</text>
+  
+  <!-- Row 3 -->
+  <rect x="120" y="300" width="60" height="45" fill="#ffc0cb" rx="6"/>
+  <text x="135" y="328" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Mat</text>
+  
+  <rect x="200" y="300" width="60" height="45" fill="#87ceeb" rx="6"/>
+  <text x="215" y="328" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Port</text>
+  
+  <rect x="280" y="300" width="60" height="45" fill="#90ee90" rx="6"/>
+  <text x="295" y="328" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Cien</text>
+  
+  <rect x="360" y="300" width="60" height="45" fill="#ffa500" rx="6"/>
+  <text x="375" y="328" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Geo</text>
+  
+  <rect x="440" y="300" width="60" height="45" fill="#87ceeb" rx="6"/>
+  <text x="455" y="328" font-family="Arial" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Ing</text>
+  
+  <!-- Progress bar -->
+  <rect x="120" y="370" width="380" height="8" fill="#bfcff7" rx="4"/>
+  <rect x="120" y="370" width="240" height="8" fill="#d34017" rx="4"/>
+  <text x="510" y="378" font-family="Arial" font-size="12" font-weight="bold" fill="#d34017">62%</text>
+</svg>
