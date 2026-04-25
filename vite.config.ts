@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/repo_namorada/', // Caminho base para GitHub Pages
+  base: '/ENEM/', // Caminho base para GitHub Pages
 })
