@@ -23,6 +23,9 @@ import logoImg from "./assets/lolgo.png";
 import avatar1 from "./assets/491449958_18051564290587134_3407272341558677419_n.jpg";
 import avatar2 from "./assets/464171015_1314458336636570_3083282850834738553_n.jpg";
 import avatar3 from "./assets/658781911_17915454471335085_5590349248708414285_n.jpg";
+import showcaseCronograma from "../public/showcase-cronograma.svg";
+import showcaseSimulado from "../public/showcase-simulado.svg";
+import showcaseMensal from "../public/showcase-mensal.svg";
 
 const WHATS_LINK =
     "https://wa.me/5500000000000?text=Oi!%20Quero%20saber%20mais%20sobre%20o%20cronograma%20do%20ENEM";
@@ -240,19 +243,19 @@ const features = [
 
 const showcaseItems = [
     {
-        img: "/showcase-cronograma.svg",
+        img: showcaseCronograma,
         alt: "Cronograma semanal em tablet",
         title: "Cronograma Semanal",
         bullets: ["Organizado por matéria", "Horários flexíveis", "Fácil de seguir"],
     },
     {
-        img: "/showcase-simulado.svg",
+        img: showcaseSimulado,
         alt: "Simulado ENEM impresso com cartão-resposta",
         title: "Simulados com Gabarito",
         bullets: ["Formato oficial ENEM", "Correção detalhada", "Análise de desempenho"],
     },
     {
-        img: "/showcase-mensal.svg",
+        img: showcaseMensal,
         alt: "Planejamento mensal em laptop",
         title: "Planejamento Mensal",
         bullets: ["Metas claras", "Revisões programadas", "Acompanhamento visual"],
