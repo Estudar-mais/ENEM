@@ -28,7 +28,7 @@ import showcaseSimulado from "../public/showcase-simulado.svg";
 import showcaseMensal from "../public/showcase-mensal.svg";
 
 const WHATS_LINK =
-    "https://wa.me/5500000000000?text=Oi!%20Quero%20saber%20mais%20sobre%20o%20cronograma%20do%20ENEM";
+    "https://pay.hotmart.com/R105545138Y?sck=HOTMART_PRODUCT_PAGE&off=ovlirnvj&hotfeature=32&_gl=1*7ya6xk*_gcl_au*MTU1NjYwMTY4OS4xNzc3MTU5NjI0*FPAU*MTU1NjYwMTY4OS4xNzc3MTU5NjI0*_ga*MTQ3NTQ0MDY0Mi4xNzc3MTU5NjIw*_ga_GQH2V1F11Q*czE3NzcxNTk2MjAkbzEkZzEkdDE3NzcxNjA2NzgkajU5JGwwJGgxMTEwNjY0NDA1&bid=1777160691947";
 
 const fadeUp = {
     initial: { opacity: 0, y: 24 },
